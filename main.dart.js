@@ -76093,7 +76093,7 @@ A.abg.prototype={
 $0(){this.a.r=this.b},
 $S:0}
 A.abE.prototype={
-$2(a,b){var s=null,r=this.a,q=r.f[b],p=r.d[b],o=p?"yesterday":"",n=p?"9:23 AM":""
+$2(a,b){var s=null,r=this.a,q=r.f[b],p=r.d[b],o=p?"Yesterday":"",n=p?"9:23 AM":""
 p=p?new A.Fk(s):new A.fJ(0,0,s,s)
 return A.iB(new A.Tb(q,new A.eV("assets/7.jpg"),"Zeeshan",o,n,p,s),B.bw,s,new A.abk(r,b),new A.abr(r,b),s)},
 $S:474}
